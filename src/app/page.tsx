@@ -18,7 +18,7 @@ export default function Home() {
           </li>
           <li className="tracking-[-.01em]">
             Just getting started with Next js 🥰
-            <br>Presenly at next js routing 
+            <br />Presenly at next js routing 
           </li>
         </ol>
 
