@@ -15,7 +15,6 @@ export default function Home() {
         <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2 tracking-[-.01em]">
             Hello World
-            .
           </li>
           <li className="tracking-[-.01em]">
             Just getting started with Next js 🥰
