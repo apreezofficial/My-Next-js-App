@@ -1,7 +1,13 @@
-export default function ProductDetails() {
-  return(
+interface ProductDetailsProps {
+  params: {
+    productId: string;
+  };
+}
+
+export default function ProductDetails({ params }: ProductDetailsProps) {
+  return (
     <>
-    <p>Details about the product </p>
+      <p>Details about the product with ID: {params.productId}</p>
     </>
-    )
+  );
 }
