@@ -1,5 +1,7 @@
 export default function Api(){
   return <>
-  <p>Please Navigate</p>
+  <p>Please Navigate like 
+  /api/imageofagoat
+  </p>
   </>
 }
